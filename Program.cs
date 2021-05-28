@@ -71,7 +71,9 @@ namespace Program2
             catch (Exception e)
             {
                 Console.WriteLine("Catch All Exception: " + e.Message);
+               
             }
+            
 
             Console.ReadLine();
         }
