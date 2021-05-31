@@ -5,3 +5,10 @@ C:\Users\mingo\source\repos\Program2\obj\Debug\Program2.csprojAssemblyReference.
 C:\Users\mingo\source\repos\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
 C:\Users\mingo\source\repos\Program2\obj\Debug\Program2.exe
 C:\Users\mingo\source\repos\Program2\obj\Debug\Program2.pdb
+C:\Users\mingo\OneDrive\Desktop\Program2-2021\bin\Debug\Program2.exe.config
+C:\Users\mingo\OneDrive\Desktop\Program2-2021\bin\Debug\Program2.exe
+C:\Users\mingo\OneDrive\Desktop\Program2-2021\bin\Debug\Program2.pdb
+C:\Users\mingo\OneDrive\Desktop\Program2-2021\obj\Debug\Program2.csprojAssemblyReference.cache
+C:\Users\mingo\OneDrive\Desktop\Program2-2021\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\mingo\OneDrive\Desktop\Program2-2021\obj\Debug\Program2.exe
+C:\Users\mingo\OneDrive\Desktop\Program2-2021\obj\Debug\Program2.pdb

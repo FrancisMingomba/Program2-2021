@@ -10,8 +10,9 @@ namespace Program2
         static void Main(string[] args)
         {
 
-            String path = "C:/Users/mingo/OneDrive/Documents/csvFile.csv";
-
+            // String path = "C:/Users/mingo/OneDrive/Documents/csvFile.csv";          
+            //var path = @"csvFile.csv";
+            var path = @"Textfile.csv";
             try
             {
                 if (!path.EndsWith(".csv"))
